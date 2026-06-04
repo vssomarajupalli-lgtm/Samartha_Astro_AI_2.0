@@ -105,4 +105,8 @@ The best first executable milestone is: input native profile in, compute natal M
 
 ## Handover note for new chat
 
+<<<<<<< HEAD
 In the new chat window, the GitHub repo or file bundle can be provided as the fresh source of truth. This handover document is meant to re-establish the working model quickly so the next session can start directly from implementation rather than re-discussing structure. [cite:58][cite:61]
+=======
+In the new chat window, the GitHub repo or file bundle can be provided as the fresh source of truth. This handover document is meant to re-establish the working model quickly so the next session can start directly from implementation rather than re-discussing structure. [cite:58][cite:61]
+>>>>>>> 0b0fa04 (initial commit)
